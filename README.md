@@ -4,6 +4,7 @@
 - add images/gifs for the holster
 - finish 1 more mod
 - restructure the other repos to simplify the release process
+- talk about game balance and trade-offs?
 
 
 This is a collection of mods meant to create a "Vanilla+" experience.
@@ -17,7 +18,7 @@ My goal is not to ruin the fun for the players or cause trouble to the developer
 
 ## Mods
 
-### 1. [Gun Holster](<./1. Holster>)  ➠  [󰥦 holster.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Holster/holster.zip>)
+### 1. [Gun Holster](</1. Holster>)  ➠  [![](/dlicon.svg) holster.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Holster/holster.zip>)
 The holster is a piece of equipment that, upon being picked up, grants the doctor an extra inventory slot that accepts either a revolver or a flare gun. It functions similarly to the Gentleman's Case Upgrade in the sense that it is not an item the doctor can pick up and carry/wear, but a permanent modifier.
 
 ### 2. Vitalizing Tonic Alt Interact
@@ -31,7 +32,7 @@ WIP - what if you could alter individual settings like enemy healh, enemy vision
 It's really easy - just download the mod file and unzip it inside the game folder.  
 No need to install, run or compile any programs :)
 
-Currently, all mods depend on the [BepInEx](https://bepinex.com/) framework, so you need to install [0. BepInEx](<./0. BepInEx>) first. This is done the same way as any other mod - download and unzip.
+Currently, all mods depend on the [BepInEx](https://bepinex.com/) framework, so you need to install [0. BepInEx](</0. BepInEx>) first. This is done the same way as any other mod - download and unzip.
 
 > [!IMPORTANT]
 > **Windows users** can ignore this.
@@ -53,5 +54,5 @@ All of the text you see in this repo and potentially in the game (e.g. notes) ar
 
 
 ## License
-- A release of BepInEx is redistributed here under its original [LGPL 2.1 license](<./0. BepInEx/LICENSE>).
-- All other files are distributed under the [MIT license](./LICENSE).
+- A release of BepInEx is redistributed here under its original [LGPL 2.1 license](</0. BepInEx/LICENSE>).
+- All other files are distributed under the [MIT license](/LICENSE).

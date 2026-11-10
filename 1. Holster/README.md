@@ -1,4 +1,4 @@
-# Gun Holster  ➠  [󰥦 holster.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Holster/holster.zip>)
+# Gun Holster  ➠  [![](/dlicon.svg) holster.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Holster/holster.zip>)
 
 ## Synopsis
 The holster is a piece of equipment that, upon being picked up, grants the doctor an extra inventory slot that accepts either a revolver or a flare gun. It's like the melee slot but for handguns. Any weapons in the slot can be reloaded/unloaded as usual.
