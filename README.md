@@ -18,14 +18,18 @@ My goal is not to ruin the fun for the players or cause trouble to the developer
 
 ## Mods
 
-### 1. [Gun Holster](</1. Holster>)  ➠  [![](/dlicon.svg) holster.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Holster/holster.zip>)
-The holster is a piece of equipment that, upon being picked up, grants the doctor an extra inventory slot that accepts either a revolver or a flare gun. It functions similarly to the Gentleman's Case Upgrade in the sense that it is not an item the doctor can pick up and carry/wear, but a permanent modifier.
+### 0. [BepInEx](</0. BepInEx>)  ➠  [![](/dlicon.svg) BepInEx_win_x64_5.4.23.3.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/0. BepInEx/BepInEx_win_x64_5.4.23.3.zip>)
+Core dependency. Read more in the installation instructions below.
 
-### 2. Vitalizing Tonic Alt Interact
-WIP - The doctor can inject Vitalizing Tonic syringes without having to open his gentleman's case, just like he can eat food.
+### 1. [Quick Tonic](</1. Quick Tonic>)  ➠  [![](/dlicon.svg) quick_tonic_0.1.1.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Quick Tonic/quick_tonic_0.1.1.zip>)
+The doctor can now inject himself with the Vitalizing Tonic without opening his gentleman's case. just like he can eat food directly off a table.
 
-### 3. Custom Difficulty Settings
-WIP - what if you could alter individual settings like enemy healh, enemy vision angle/range, item spawns, player health, etc.?
+### 2. [Gun Holster](</2. Holster>)  ➠  [![](/dlicon.svg) holster_1.0.0.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/2. Holster/holster_1.0.0.zip>)
+The holster is a piece of equipment that, upon being picked up, grants the doctor an extra inventory slot that accepts either a revolver or a flare gun. It functions similarly to the gentleman's case Upgrade in the sense that it is not an item the doctor can pick up and carry/wear, but a permanent modifier.
+
+### 3. Future ideas
+- **A small new area/level:** maybe a 4 room house with a few enemies somewhere?
+- **Custom difficulty settings:** alter individual settings like enemy healh and damage multiplier, enemy vision angle/range, item spawns, player health, etc.? The game code allows for some of this (not exposed through the difficulty settings in-game), but I'm not sure how codependent the settings are. Also, changing the experience this much is can of worms I might not be ready to open.
 
 
 ## Install a mod
