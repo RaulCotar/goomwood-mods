@@ -15,8 +15,14 @@ A high place at the bottom of the world.
 
 <details>
 <summary><strong>Location picture: (spoiler)</strong></summary>
-todo
+![Hive Old Kingdom tower](./images/Screen_2026-11-10_23-22-41.png)
 </details>
+
+## Images
+![Holster grid slot](./images/Screen_2026-11-10_23-22-41.png)
+
+## Known bugs
+- There's and extra "E" in the holster slot.
 
 ## Technical details
 It's a pickup called `item_pistolholster_upgrade`. You can `spawn` or `give` it with console commands. Under the hood it is a modified version of the suitcase upgrade that modifies the player state to add a modified version of the melee inventory grid.

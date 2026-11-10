@@ -22,7 +22,7 @@ My goal is not to ruin the fun for the players or cause trouble to the developer
 Core dependency. Read more in the installation instructions below.
 
 ### 1. [Quick Tonic](</1. Quick Tonic>)  ➠  [![](/dlicon.svg) quick_tonic_0.1.1.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/1. Quick Tonic/quick_tonic_0.1.1.zip>)
-The doctor can now inject himself with the Vitalizing Tonic without opening his gentleman's case. just like he can eat food directly off a table.
+The doctor can now inject himself with the Vitalizing Tonic without opening his gentleman's case, just like he can eat food directly off a table.
 
 ### 2. [Gun Holster](</2. Holster>)  ➠  [![](/dlicon.svg) holster_1.0.0.zip](<https://raw.githubusercontent.com/RaulCotar/gloomwood-mods/refs/heads/master/2. Holster/holster_1.0.0.zip>)
 The holster is a piece of equipment that, upon being picked up, grants the doctor an extra inventory slot that accepts either a revolver or a flare gun. It functions similarly to the gentleman's case Upgrade in the sense that it is not an item the doctor can pick up and carry/wear, but a permanent modifier.
